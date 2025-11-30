@@ -1,3 +1,8 @@
+Name: Tamizharasu M
+College Name:Agni College of Technology
+Contact Number:8778638910
+
+
 This project is a backend for an employee attendance system built using Node.js, Express, and MongoDB Atlas.
 The project does not include any .env file. You must create it manually inside the server folder.
 
