@@ -1,6 +1,8 @@
 Name: Tamizharasu M
-College Name:Agni College of Technology
-Contact Number:8778638910
+
+College Name: Agni College of Technology
+
+Contact Number: 8778638910
 
 
 This project is a backend for an employee attendance system built using Node.js, Express, and MongoDB Atlas.
